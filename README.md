@@ -1,6 +1,6 @@
 #DEMO Project README
 
-this is your sample to cause conflict
+this is the definitive sample after resolving conflict
 I add this line
 
 Luca
